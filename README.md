@@ -11,7 +11,7 @@ I'm Alankrit Verma, a second-year student at [University of Toronto](https://www
 - 🌱 I’m a 2nd-year student studying computer science under the software enginerring stream at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects focusing on web development
 - 📫 my email is alankrit.verma@mail.utoronto.ca
-- 🔭 I’m currently TAing CSCA08 - Introduction to Machine Learning
+- 🔭 I’m currently TAing CSCA08 - Introduction to Computer Science
 - 🔬 I am currently associated with the Computational Social Sciences Lab at UofT.
 - 🔬 I have also researched on Algorithmic Bias in Twitter as a researcher at Rotman
 - 📝 Blogging site - https://alankrit.hashnode.dev/

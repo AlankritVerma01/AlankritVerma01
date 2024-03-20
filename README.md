@@ -28,14 +28,65 @@ I'm eager to collaborate on projects, especially those focused on web developmen
 - LinkedIn: [linkedin.com/in/alankritverma](https://linkedin.com/in/alankritverma)
 - Blog: [alankrit.hashnode.dev](https://alankrit.hashnode.dev/)
 
-## 🚀 My Skills
+## 🚀 Skills and Technologies
 
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+
+### Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-... and many more!
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Database Technologies
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Cloud Technologies
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Tools & Platforms
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Methodologies & Practices
+![SCRUM](https://img.shields.io/badge/-SCRUM-008680?style=for-the-badge&logo=scrum&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-8892BF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Others
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ## 🌟 Highlight Projects
 

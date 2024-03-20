@@ -1,48 +1,62 @@
+# Hi there 👋 I'm Alankrit Verma! 👨‍💻
 
-### Hi there 👋 I am Alankrit Verma! 👨‍💻
 <p align="center">
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="Example GIF" width="20%" style="display: block; margin: auto;">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="Coding GIF" width="30%">
 </p>
 
+Welcome to my GitHub! I'm a second-year Computer Science student at the University of Toronto, specializing in software engineering and entrepreneurship. I'm passionate about building innovative solutions that leverage cutting-edge technology to make a positive impact on the world. 
 
-I'm Alankrit Verma, a second-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science with the Entrepreneurship stream. I am proficient in languages such as Python, Java, C/C++. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
+## 👀 About Me
 
-- 👀 I’m interested in web and mobile app development
-- 🌱 I’m a 2nd-year student studying computer science under the software enginerring stream at University of Toronto
-- 💞️ I’m looking to collaborate on cs projects focusing on web development
-- 📫 my email is alankrit.verma@mail.utoronto.ca
-- 🔭 I’m currently TAing CSCA08 - Introduction to Computer Science
-- 🔬 I am currently associated with the Computational Social Sciences Lab at UofT.
-- 🔬 I have also researched on Algorithmic Bias in Twitter as a researcher at Rotman
-- 📝 Blogging site - https://alankrit.hashnode.dev/
-  
+From the moment I wrote my first "Hello World" program, I knew I was hooked into the world of software development. But, it wasn't just about the code. It was about creating something that could change the world. I'm proficient in Python, Java, C/C++, and I'm currently diving into the realms of web and mobile app development. 
 
-As a student of Computer Science at the esteemed University of Toronto, I am an accomplished software engineer specializing in the intricate art of Software Engineering. I am a dynamic and accomplished software developer, armed with a deep understanding of object-oriented programming and broad experience in Android and web development.
+When I'm not coding, you might find me on the basketball court, exploring the latest in tech innovations, or sharing my knowledge and learning from others in tech communities.
 
-My relentless pursuit of new knowledge and projects has earned me a reputation as a versatile and industrious individual. My hobbies, including basketball, football, and training, showcase my versatility and leadership potential. I am destined for greatness in the realm of technology.
+## 🌱 I’m Currently Working On
 
-**Languages and Tools:** 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div><br>
+- TAing CSCA08 - Introduction to Computer Science at UofT
+- Research at the Computational Social Sciences Lab, focusing on "Echo Tunnels: Polarized News Sharing Online Runs Narrow but Deep"
+- Developing an AI-powered real-time trading system at UTMIST
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlankritVerma01&theme=dark&background=000000)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=AlankritVerma01&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+## 💞️ Looking to Collaborate
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlankritVerma01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm eager to collaborate on projects, especially those focused on web development and computational social sciences. If you're looking for a dedicated teammate who brings fresh perspectives and technical skills, let's connect!
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Divyanshuoft.Divyanshuoft) -->
+## 📫 How to Reach Me
+
+- Email: alankrit.verma@mail.utoronto.ca
+- LinkedIn: [linkedin.com/in/alankritverma](https://linkedin.com/in/alankritverma)
+- Blog: [alankrit.hashnode.dev](https://alankrit.hashnode.dev/)
+
+## 🚀 My Skills
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+... and many more!
+
+## 🌟 Highlight Projects
+
+### [The Course – Enhancing UofT's Course Selection](https://github.com/AlankritVerma01/TheCourse)
+
+A student-focused website integrating with ACORN to offer comprehensive course information and interactive planning tools. 
+
+### [Paper:Vision – Hack The Valley Winner](https://github.com/AlankritVerma01/PaperVision)
+
+A web application transforming research articles into interactive mind-maps, using React.js, Next.js, and WebGL-based Reagraph.
+
+## 📚 What I'm Learning
+
+I'm currently exploring the depths of Machine Learning and Artificial Intelligence, focusing on their applications in computational social sciences and financial technologies.
+
+## 💬 Ask Me About
+
+Feel free to reach out if you have questions about web development, my projects, collaborating, or anything else! I'm always open to helping out or discussing new ideas.
+
+## 🤝 Let's Connect
+
+If you'd like to collaborate, learn more about my projects, or just chat about technology, don't hesitate to get in touch!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alankrit_Verma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alankritverma)](https://linkedin.com/in/alankritverma)

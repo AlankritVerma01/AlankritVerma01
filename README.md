@@ -111,3 +111,5 @@ Feel free to reach out if you have questions about web development, my projects,
 If you'd like to collaborate, learn more about my projects, or just chat about technology, don't hesitate to get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alankrit_Verma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alankritverma)](https://linkedin.com/in/alankritverma)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlankritVerma01&" alt="Alankrit" /></p>

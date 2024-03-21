@@ -5,14 +5,22 @@
 </p>
 
 Welcome to my GitHub! I'm a second-year Computer Science student at the University of Toronto, specializing in software engineering and entrepreneurship. I'm passionate about building innovative solutions that leverage cutting-edge technology to make a positive impact on the world. 
-
+ 
 ## 👀 About Me
 
-From the moment I wrote my first "Hello World" program, I knew I was hooked into the world of software development. But, it wasn't just about the code. It was about creating something that could change the world. I'm proficient in Python, Java, C/C++, and I'm currently diving into the realms of web and mobile app development. 
+From the moment I wrote my first "Hello World" program, I knew I was hooked into the world of software development. But, it wasn't just about the code. It was about creating something that could change the world. I'm proficient in Python, Java, C/C++, and I'm currently diving into the realms of web and mobile app development.  <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
+
 
 When I'm not coding, you might find me on the basketball court, exploring the latest in tech innovations, or sharing my knowledge and learning from others in tech communities.
 
-## 🌱 I’m Currently Working On
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I+like+my+coffee+how+I+like+my+code:+Constantly+refilling+and+refactoring&type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+I+have+been+up+to...)](https://git.io/typing-svg)
 
 - TAing CSCA08 - Introduction to Computer Science at UofT
 - Research at the Computational Social Sciences Lab, focusing on "Echo Tunnels: Polarized News Sharing Online Runs Narrow but Deep"
@@ -113,3 +121,8 @@ If you'd like to collaborate, learn more about my projects, or just chat about t
 [![Linkedin Badge](https://img.shields.io/badge/-Alankrit_Verma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alankritverma)](https://linkedin.com/in/alankritverma)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlankritVerma01&" alt="Alankrit" /></p>
+<p align="Center">
+  <a href="https://github.com/AlankritVerma01">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlankritVerma01&theme=moonlight" alt="Alankrit's GitHub Contribution"/>
+  </a>
+</p>

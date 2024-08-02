@@ -4,27 +4,29 @@
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="Coding GIF" width="30%">
 </p>
 
-Welcome to my GitHub! I'm a second-year Computer Science student at the University of Toronto, specializing in software engineering and entrepreneurship. I'm passionate about building innovative solutions that leverage cutting-edge technology to make a positive impact on the world. 
- 
+Welcome to my GitHub! I'm a second-year Computer Science student at the University of Toronto, specializing in software engineering and entrepreneurship. I'm passionate about building innovative solutions that leverage cutting-edge technology to make a positive impact on the world.
+
 ## 👀 About Me
 
-From the moment I wrote my first "Hello World" program, I knew I was hooked into the world of software development. But, it wasn't just about the code. It was about creating something that could change the world. I'm proficient in Python, Java, C/C++, and I'm currently diving into the realms of web and mobile app development.  <img  alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
-
+From the moment I wrote my first "Hello World" program, I knew I was hooked into the world of software development. But, it wasn't just about the code. It was about creating something that could change the world. I'm proficient in Python, Java, C/C++, and I'm currently diving into the realms of web and mobile app development. <img alt="Chill gif" align="right" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="250" height="200" />
 
 When I'm not coding, you might find me on the basketball court, exploring the latest in tech innovations, or sharing my knowledge and learning from others in tech communities.
 
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I+like+my+coffee+how+I+like+my+code:+Constantly+refilling+and+refactoring&type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1000&color=a66dc7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+I+have+been+up+to...)](https://git.io/typing-svg)
 
-- TAing CSCA08 - Introduction to Computer Science at UofT
-- Research at the Computational Social Sciences Lab, focusing on "Echo Tunnels: Polarized News Sharing Online Runs Narrow but Deep"
-- Developing an AI-powered real-time trading system at UTMIST
+### 💻 Development Side
+- **TA for CSCA08 - Introduction to Computer Science at UofT**
+- **Founder & Co-Chair of Gen AI Genesis – Organized Canada's largest GenAI hackathon, leading a team of 50+ students.**
+- **Developing 'The Course' – A student-focused website integrating with ACORN for comprehensive course information and planning tools.**
+
+### 🤖 Machine Learning Side
+- **Researcher at the Computational Social Sciences Lab – Analyzing 10 years of Reddit data to study polarization in news sharing.**
+- **Developing an AI-powered real-time trading system at UTMIST – Utilizing sequence modeling and Deep Reinforcement Learning (DRL).**
+- **Research on Algorithmic Bias in Twitter – Spearheaded the study of bias in over 100,000 tweets using machine learning techniques.**
 
 ## 💞️ Looking to Collaborate
 
@@ -63,15 +65,16 @@ I'm eager to collaborate on projects, especially those focused on web developmen
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Database Technologies
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### DevOps & Cloud Technologies
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ### Tools & Platforms
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -92,19 +95,29 @@ I'm eager to collaborate on projects, especially those focused on web developmen
 ![SCRUM](https://img.shields.io/badge/-SCRUM-008680?style=for-the-badge&logo=scrum&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-8892BF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Others
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
 ## 🌟 Highlight Projects
 
-### [The Course – Enhancing UofT's Course Selection](https://github.com/AlankritVerma01/TheCourse)
+### Development Projects
 
-A student-focused website integrating with ACORN to offer comprehensive course information and interactive planning tools. 
+#### [The Course – Enhancing UofT's Course Selection](https://github.com/AlankritVerma01/TheCourse)
+A student-focused website integrating with ACORN to offer comprehensive course information and interactive planning tools.
 
-### [Paper:Vision – Hack The Valley Winner](https://github.com/AlankritVerma01/PaperVision)
-
+#### [Paper:Vision – Hack The Valley Winner](https://github.com/AlankritVerma01/PaperVision)
 A web application transforming research articles into interactive mind-maps, using React.js, Next.js, and WebGL-based Reagraph.
+
+#### [NotParx](https://github.com/AlankritVerma01/project-notParx)
+Directed the architecture and development of a website using React for dynamic UI construction and Django for scalable microservice integration.
+
+### Machine Learning Projects
+
+#### [AI-Powered Real-Time Trading System](https://github.com/AlankritVerma01/AITradingSystem)
+Developing an AI-powered real-time trading system with sequence modeling and Deep Reinforcement Learning (DRL).
+
+#### [Echo Tunnels: Polarized News Sharing](https://github.com/AlankritVerma01/EchoTunnels)
+Analyzing 10 years of Reddit data to study polarization in news sharing using machine learning techniques.
+
+#### [Algorithmic Bias in Twitter](https://github.com/AlankritVerma01/AlgorithmicBias)
+Spearheaded the study of bias in over 100,000 tweets using machine learning techniques.
 
 ## 📚 What I'm Learning
 

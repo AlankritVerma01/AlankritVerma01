@@ -25,7 +25,6 @@ When I'm not coding, you might find me on the basketball court, exploring the la
 
 ### 🤖 Machine Learning Side
 - **Researcher at the Computational Social Sciences Lab – Analyzing 10 years of Reddit data to study polarization in news sharing.**
-- **Developing an AI-powered real-time trading system at UTMIST – Utilizing sequence modeling and Deep Reinforcement Learning (DRL).**
 - **Research on Algorithmic Bias in Twitter – Spearheaded the study of bias in over 100,000 tweets using machine learning techniques.**
 
 ## 💞️ Looking to Collaborate

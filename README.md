@@ -4,7 +4,8 @@
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="Coding GIF" width="30%">
 </p>
 
-Welcome to my GitHub! I'm a second-year Computer Science student at the University of Toronto, specializing in software engineering and entrepreneurship. I'm passionate about building innovative solutions that leverage cutting-edge technology to make a positive impact on the world.
+Welcome to my GitHub! I'm a third-year Computer Science student at the University of Toronto, specializing in software engineering and entrepreneurship. I'm passionate about building innovative solutions that leverage cutting-edge technology to make a positive impact on the world.
+I will be working at Playstation and Amazon soon. (As an intern)
 
 ## 👀 About Me
 

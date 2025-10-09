@@ -5,7 +5,8 @@
 </p>
 
 Welcome to my GitHub! I'm a third-year Computer Science student at the University of Toronto, specializing in software engineering and entrepreneurship. I'm passionate about building innovative solutions that leverage cutting-edge technology to make a positive impact on the world.
-I will be working at Playstation and Amazon soon. (As an intern)
+I am currently working at PlayStation as an intern. 
+Looking for summer 2026 internships!
 
 ## 👀 About Me
 

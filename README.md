@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&pause=1000&color=a66dc7&center=true&vCenter=true&width=600&lines=ML+Research+Intern+%40+Sony+PlayStation;Top+Contributor+%40+Google+DeepMind+ADK;Founder+of+Canada's+Largest+GenAI+Hackathon;CS+%40+University+of+Toronto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&pause=1000&color=a66dc7&center=true&vCenter=true&width=600&lines=ML+Research+Intern+%40+Sony+PlayStation;Top+Contributor+%40+Google+ADK;Founder+of+Canada's+Largest+GenAI+Hackathon;CS+%40+University+of+Toronto" alt="Typing SVG" />
 </p>
 
 ---
